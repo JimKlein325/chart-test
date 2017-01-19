@@ -32,3 +32,8 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+
+# vs code specific debug items
+/npm-debug.log
+/out/
+/out/chrome
